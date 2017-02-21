@@ -1,0 +1,8 @@
+﻿GET http://localhost:63457/api/values HTTP/1.1
+User-Agent: Fiddler
+Host: localhost:63457
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 0
+Authorization: Bearer k8xlKC4eYIaZR7depI_qkQZ20EKeuD4wrmaBs3r3mOmsP3E_AUT7fJSQplb-n2I8kUomKefJnQW8S1O7H2WjcghaGE-QLngpWKk2MGkXXyRoDJxcJhGHAozELji0cUpXk90oYS1Lcj0w-lHDrI8XBuggCEcGcrS1VEyt89XAwx-HKxn3o9V1Hnl3VQT2h1WHZ8xmTLtbCRRaOpA_eddC40c4EyehTbV3VnfJgBo18ksg2JxbUovsocVILAxF9srWKQ587-uis369MO_oGXcu3khsPGtUtrDaF7F1QARGNoaRhNgWZx2GIavWEbAPEQcvtYpDIDDK_GikSVGlKnDEJrdDuVcN-clmadVRQkf_7RzETezjZVpg99Ff44SJyyeHlTZN7l2ZrltUkuoPxVS2AEGigaLRfoQc3DroelQ3mdhjXnetrCKndnd9UaaM0GBzZA7LLK3mXAR4GcISKYgRRskA_aJPBxWARPkuosIUBRo
+
+Note: Authorization template: "Authorization: Bearer {token}"

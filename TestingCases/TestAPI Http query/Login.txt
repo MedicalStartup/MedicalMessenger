@@ -1,0 +1,13 @@
+POST http://localhost:63457/api/Account/Login HTTP/1.1
+User-Agent: Fiddler
+Host: localhost:63457
+Content-Type: application/json; charset=UTF-8
+Content-Length: 0
+Authorization: Bearer cYYyBBPiVSB4qPhnMxeytTbALjwyQ-VfW-S3aBrTUsmKj3bkUNpLJ48ngBlTWSvdO34nNn7enTUWksK1S5ogJrMprf0LJOIspUMisPiz9HNz2IQ_tpNJqlA0sj1s2MCTFDqKT2fwMeBnuEYI7w4JfQ5_5SfNLi5cQ8QdX5yFlxcg4OUHegc131R4Cgdq03Oo-RdIix8lmpTtyLAFKpkT7YW21beUo-mPzChtdXdvmc1jBycAMo3-mp0kWa-J0enfJhUvtlmG-SZ3KM4WKqXNzlMdu6Ql6tSmcCzOh5x5QEa3WlCfcUpgrcwC64tc4dyFyjcUViJiefL4Zw45j5zDwLt-SXDrLdXLOgMtuK5pbMd2xJ3nAMZKVvhltE77I4-N5HaPVDvHKZJY8RyBs2k7uDOrcacswiE1LlXNy7MtaOWxfdtd1cwGMtl1U-MLxtZjIVTq1JU72QF2z6F0kb-13V1gA01Vgr9vOlVZn_ZbRq6MXrZQGs8U65mjkUAJ_yvA
+
+{ 'PhoneLogin': '79121234567',
+'Password': 'ooowwwooo000'}
+
+Note: Authorization template: "Authorization: Bearer {token}"
+
+

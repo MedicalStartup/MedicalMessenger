@@ -1,0 +1,9 @@
+POST http://localhost:63457/api/Account/Register HTTP/1.1
+User-Agent: Fiddler
+Host: localhost:63457
+Content-Type: application/json; charset=UTF-8
+Content-Length: 88;
+
+{ 'Email': 'as@aas.as',
+'Password': 'ooowwwooo000',
+'ConfirmPassword': 'ooowwwooo000'}
